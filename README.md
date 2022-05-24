@@ -1,2 +1,2 @@
-# Task-App
+# Expense-App
 Expense Tracker React Application
