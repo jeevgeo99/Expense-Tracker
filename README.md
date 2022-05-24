@@ -1,2 +1,2 @@
-# Expense-App
-Expense Tracker React Application
+# Expense Tracker-App
+A React application which tracks all the expenses.
